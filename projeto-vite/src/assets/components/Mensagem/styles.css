@@ -1,0 +1,14 @@
+/* src\assets\components\Mensagem\styles.css */
+
+.mensagem h1 {
+
+    color: blue;
+    font-size: 10px 0;
+
+}
+.mensagem p {
+
+    color: red;
+    font-size: 10px 0;
+
+}

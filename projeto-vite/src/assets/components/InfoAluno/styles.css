@@ -1,0 +1,14 @@
+/* src\assets\components\Mensagem\InfoAluno\styles.css*/
+
+.infoAluno h1 {
+
+    color: blue;
+    font-size: 10px 0;
+
+}
+.infoAluno p {
+
+    color: red;
+    margin: 10px 0;
+    font-size: 18px;
+}
