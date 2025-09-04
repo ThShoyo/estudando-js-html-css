@@ -1,18 +1,15 @@
+// src\App.jsx
 import { useState } from 'react'
 import './App.css'
-import Mensagem from './assets/components/Mensagem'
+import InfoAluno from './components/InfoAluno'
+import AdicionarAluno from './components/AdicionarAluno'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-     <h1>Aula ReactJS</h1>
-      <Mensagem />
-      <hr />
-      <InfoAluno />
-      <hr />
-      <InfoCurso /> 
+      <InfoAluno/>
     </>
   )
 }
